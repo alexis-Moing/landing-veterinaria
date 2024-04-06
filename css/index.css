@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,500;1,500&display=swap,wght@0,700;1,700&display=swap');
+
+@import url(./modules/header.css);
+@import url(./modules/variables.css);
+@import url(./modules/hero.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font-family);
+}
+
+html {
+    font-size: var(--font-size);
+}
+
+a {
+    color: var(--Medium-Gray);
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
