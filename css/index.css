@@ -3,6 +3,7 @@
 @import url(./modules/header.css);
 @import url(./modules/variables.css);
 @import url(./modules/hero.css);
+@import url(./modules/services.css);
 
 * {
     margin: 0;
